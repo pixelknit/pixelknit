@@ -5,11 +5,8 @@
 - 📫 How to reach me felipecgdesign@gmail.com
 
 
-<div align="left">
-      <a href="https://youtu.be/R9iaKDh15dY">
-         <img src="https://img.youtube.com/vi/R9iaKDh15dY/0.jpg" style="width:100%;">
-      </a>
-</div>
+https://github.com/pixelknit/pixelknit/assets/54825485/3766bc7b-23a7-45c0-83b4-7ae843f87e2d
+
 
 <!---
 pixelknit/pixelknit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
